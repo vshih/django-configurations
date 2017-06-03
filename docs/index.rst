@@ -45,7 +45,7 @@ attributes to the module level variables.
 
 Alternatively you can use the ``--configuration`` command line option that
 django-configurations adds to all Django management commands. Behind the
-scenes it will simply set the ``DJANGO_CONFIGURATION`` environement variable
+scenes it will simply set the ``DJANGO_CONFIGURATION`` environment variable
 so this is purely optional and just there to compliment the default
 ``--settings`` option that Django adds if you prefer that instead of setting
 environment variables.
